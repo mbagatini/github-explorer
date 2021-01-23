@@ -29,6 +29,9 @@
     "prettier"
   ],
   "rules": {
+    "no-use-before-define": "off",
+    "prettier/prettier": "error",
+    "camelcase": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/jsx-filename-extension": [
@@ -48,8 +51,12 @@
         "tsx": "never"
       }
     ],
-    "no-use-before-define": "off",
-    "prettier/prettier": "error"
+    "@typescript-eslint/explicit-function-return-type": [
+      "error",
+      {
+        "allowExpressions": true
+      }
+    ]
   },
   "settings": {
     "import/resolver": {
