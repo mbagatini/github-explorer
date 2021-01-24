@@ -17,12 +17,7 @@
 
 Essa é uma explicação para explorar os repositórios do Github. A aplicação permite consultar algumas informações do repositório, como número forks e issues abertas.
 
-<table>
-  <tr>
-    <td><img alt="Home" src="https://github.com/mbagatini/github-explorer/blob/master/src/assets/Home.png" width="500"> </td>
-    <td><img alt="Home" src="https://github.com/mbagatini/github-explorer/blob/master/src/assets/User.png" width="500"></td>
-  </tr>
- </table>    
+<img alt="Home" src="https://github.com/mbagatini/github-explorer/blob/master/src/assets/Home.png">
 
 ### 🎨 Layout
 
